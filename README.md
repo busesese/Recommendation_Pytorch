@@ -8,3 +8,6 @@ recommendatoion alogrithem code pytorch
 ## BPR-MF
 
 基于MF的贝叶斯排序算法
+
+## Word2Vec
+基于SkipGram 负采样的word2vec
