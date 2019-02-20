@@ -11,3 +11,7 @@ recommendatoion alogrithem code pytorch
 
 ## Word2Vec
 基于SkipGram 负采样的word2vec
+
+## DMF
+基于论文《Deep Matrix Factorization Models for Recommender Systems 》
+有参考https://github.com/RuidongZ/Deep_Matrix_Factorization_Models/blob/master/Model.py的tensorflow版本代码，效果比他的更好
