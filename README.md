@@ -14,4 +14,8 @@ recommendatoion alogrithem code pytorch
 
 ## DMF
 基于论文《Deep Matrix Factorization Models for Recommender Systems 》
-有参考https://github.com/RuidongZ/Deep_Matrix_Factorization_Models/blob/master/Model.py的tensorflow版本代码，效果比他的更好
+有参考https://github.com/RuidongZ/Deep_Matrix_Factorization_Models/blob/master/Model.py
+的tensorflow版本代码，效果比他的更好
+
+## Caser
+基于论文《Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding》
