@@ -1,5 +1,5 @@
 # Recommendation_Pytorch
-Recommendatoin Alogrithms code pytorch
+Recommendation Alogrithms code pytorch
 
 ## MF
 
