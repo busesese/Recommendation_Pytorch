@@ -19,3 +19,6 @@ recommendatoion alogrithem code pytorch
 
 ## Caser
 基于论文《Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding》
+
+## NISA
+基于论文《Next Item Recommendation With Self Attention》
